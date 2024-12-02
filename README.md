@@ -19,7 +19,7 @@
 
 (1) 效果图：
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202111939594.png)
 
 (2) 实现结果主要的相关思路/代码：
 
@@ -85,7 +85,7 @@
 - 进入一个新的页面
 - 输入想查询的文字，使用的是模糊查询，呈现如下：
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202123802476.png)
 
 (2) 实现结果主要的相关思路/代码：
 
@@ -202,11 +202,11 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
 
 - 点击菜单栏的那个【三个点】，会显示出设置菜单。
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E4%BF%AE%E6%94%B9%E5%A4%A7%E5%B0%8F%E5%92%8C%E9%A2%9C%E8%89%B2.jpg)
 
 - 然后我们点击菜单中的【字体大小】，会出现如下的选择：
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202122343010.png)
 
 - 我们选择【大】，字体变为如下：
 
@@ -279,21 +279,21 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
 
 (1) 效果图：
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E5%8F%98%E7%BA%A2.jpg)
 
 （2）实现流程：
 
 - 点击菜单栏的那个【三个点】，会显示出设置菜单。
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E4%BF%AE%E6%94%B9%E5%A4%A7%E5%B0%8F%E5%92%8C%E9%A2%9C%E8%89%B2.jpg)
 
 - 然后我们点击菜单中的【字体颜色】，会出现如下的选择：
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E4%BF%AE%E6%94%B9%E9%A2%9C%E8%89%B2.jpg)
 
 - 我们选择【红色】，字体变为如下：
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E5%8F%98%E7%BA%A2.jpg)
 
 (3) 关键代码：
 
@@ -359,37 +359,37 @@ private void showFontSizeMenu(View view) {
 
 (1) 效果图：
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202111939594.png)
 
 (2) 实现流程：
 
 - 点击菜单栏的这个图标，我们在代码中设置了点击事件。
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202112512387.png)
 
 - 然后，会发现，屏幕中会弹出标签选择框，选择对应的标签即可。
 
   我们链接的图标图片会在笔记列表的笔记项的img部分来体现。
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202113647626.png)
 
 （3）其中对应的标签：
 
 - 学习（默认）：
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202113824157.png)
 
 - 工作
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202113855940.png)
 
 - 个人
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202113920511.png)
 
 - 旅行
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202114001260.png)
 
 （4）关键代码：
 
