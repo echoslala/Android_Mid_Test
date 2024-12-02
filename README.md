@@ -84,8 +84,7 @@
 
 - 进入一个新的页面
 - 输入想查询的文字，使用的是模糊查询，呈现如下：
-
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202123802476.png)
+<img src="https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202123802476.png" alt="image-20241202123802476" style="zoom:33%;" />
 
 (2) 实现结果主要的相关思路/代码：
 
@@ -209,8 +208,7 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
 ![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202122343010.png)
 
 - 我们选择【大】，字体变为如下：
-
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
+<img src="https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png" alt="image-20241202110516398" style="zoom:25%;" />
 
 (2) 实现结果主要的相关思路/代码：
 
@@ -278,8 +276,7 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
 #### 2.2 修改字体颜色
 
 (1) 效果图：
-
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E5%8F%98%E7%BA%A2.jpg)
+<img src="https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E5%8F%98%E7%BA%A2.jpg" alt="变红" style="zoom:25%;" />
 
 （2）实现流程：
 
@@ -293,7 +290,7 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
 
 - 我们选择【红色】，字体变为如下：
 
-![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E5%8F%98%E7%BA%A2.jpg)
+<img src="https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E5%8F%98%E7%BA%A2.jpg" alt="变红" style="zoom:25%;" />
 
 (3) 关键代码：
 
