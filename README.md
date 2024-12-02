@@ -19,7 +19,7 @@
 
 (1) 效果图：
 
-<img src="C:\Users\Win10\AppData\Roaming\Typora\typora-user-images\image-20241202112020764.png" alt="image-20241202112020764" style="zoom:25%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 (2) 实现结果主要的相关思路/代码：
 
@@ -85,7 +85,7 @@
 - 进入一个新的页面
 - 输入想查询的文字，使用的是模糊查询，呈现如下：
 
-<img src="D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202123802476.png" alt="image-20241202123802476" style="zoom:33%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 (2) 实现结果主要的相关思路/代码：
 
@@ -202,15 +202,15 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
 
 - 点击菜单栏的那个【三个点】，会显示出设置菜单。
 
-<img src="D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\修改大小和颜色.jpg" alt="修改大小和颜色" style="zoom:25%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 - 然后我们点击菜单中的【字体大小】，会出现如下的选择：
 
-<img src="D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202122343010.png" alt="image-20241202122343010" style="zoom:25%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 - 我们选择【大】，字体变为如下：
 
-<img src="D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202110516398.png" alt="image-20241202110516398" style="zoom:25%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 (2) 实现结果主要的相关思路/代码：
 
@@ -279,21 +279,21 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
 
 (1) 效果图：
 
-<img src="D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\变红.jpg" alt="变红" style="zoom:25%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 （2）实现流程：
 
 - 点击菜单栏的那个【三个点】，会显示出设置菜单。
 
-<img src="C:\Users\Win10\Desktop\照片\修改大小和颜色.jpg" alt="修改大小和颜色" style="zoom:25%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 - 然后我们点击菜单中的【字体颜色】，会出现如下的选择：
 
-<img src="D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\修改颜色.jpg" alt="修改颜色" style="zoom: 33%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 - 我们选择【红色】，字体变为如下：
 
-<img src="C:\Users\Win10\Desktop\照片\变红.jpg" alt="变红" style="zoom:25%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 (3) 关键代码：
 
@@ -359,37 +359,37 @@ private void showFontSizeMenu(View view) {
 
 (1) 效果图：
 
-<img src="D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202111939594.png" alt="image-20241202111939594" style="zoom: 25%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 (2) 实现流程：
 
 - 点击菜单栏的这个图标，我们在代码中设置了点击事件。
 
-![image-20241202112512387](D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202112512387.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 - 然后，会发现，屏幕中会弹出标签选择框，选择对应的标签即可。
 
   我们链接的图标图片会在笔记列表的笔记项的img部分来体现。
 
-<img src="D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202113647626.png" alt="image-20241202113647626" style="zoom: 33%;" />
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 （3）其中对应的标签：
 
 - 学习（默认）：
 
-![image-20241202113824157](D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202113824157.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 - 工作
 
-![image-20241202113855940](D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202113855940.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 - 个人
 
-![image-20241202113920511](D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202113920511.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 - 旅行
 
-![image-20241202114001260](D:\project-works\androidworks\NotePad_new-master\NotePad_new-master\github_pictures\image-20241202114001260.png)
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202110516398.png)
 
 （4）关键代码：
 
