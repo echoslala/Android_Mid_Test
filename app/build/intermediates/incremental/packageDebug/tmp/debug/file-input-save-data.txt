@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Nov 26 17:25:35 CST 2024
+0.base=D\:\\project-works\\androidworks\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

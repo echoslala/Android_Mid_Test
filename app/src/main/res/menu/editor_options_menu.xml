@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_save"
+        android:icon="@drawable/ic_menu_save"
+        android:alphabeticShortcut='s'
+        android:title="@string/menu_save"
+        android:showAsAction="always" />
+    <item android:id="@+id/menu_revert"
+        android:icon="@drawable/ic_menu_revert"
+        android:title="@string/menu_revert"/>
+    <item android:id="@+id/menu_delete"
+        android:icon="@drawable/ic_menu_delete"
+        android:title="@string/menu_delete"
+        android:showAsAction="always" />
+<!--    <item android:id="@+id/menu_search"-->
+<!--        android:icon="@drawable/find"-->
+<!--        android:title="menu_search"-->
+<!--        android:showAsAction="always" />-->
+    <item
+        android:id="@+id/font_size"
+        android:title="字体大小">
+        <!--子菜单-->
+        <menu>
+            <!--定义一组单选菜单项-->
+            <group>
+                <!--定义多个菜单项-->
+                <item
+                    android:id="@+id/font_10"
+                    android:title="小"
+                    />
+
+                <item
+                    android:id="@+id/font_16"
+                    android:title="中" />
+                <item
+                    android:id="@+id/font_20"
+                    android:title="大" />
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:title="字体颜色"
+        android:id="@+id/font_color"
+        >
+        <menu>
+            <!--定义一组普通菜单项-->
+            <group>
+                <!--定义两个菜单项-->
+                <item
+                    android:id="@+id/red_font"
+                    android:title="红色" />
+                <item
+                    android:title="黑色"
+                    android:id="@+id/black_font"/>
+                <item
+                    android:title="蓝色"
+                    android:id="@+id/blue_font"/>
+            </group>
+        </menu>
+    </item>
+<!--    <item android:id="@+id/menu_output"-->
+<!--        android:title="导出文件" />-->
+</menu>
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<menu xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <item android:id="@+id/menu_save"-->
+<!--          android:icon="@drawable/ic_menu_save"-->
+<!--          android:alphabeticShortcut='s'-->
+<!--          android:title="@string/menu_save"-->
+<!--          android:showAsAction="ifRoom|withText" />-->
+<!--    <item android:id="@+id/menu_revert"-->
+<!--          android:icon="@drawable/ic_menu_revert"-->
+<!--          android:title="@string/menu_revert" />-->
+<!--    <item android:id="@+id/menu_delete"-->
+<!--          android:icon="@drawable/ic_menu_delete"-->
+<!--          android:title="@string/menu_delete"-->
+<!--          android:showAsAction="ifRoom|withText" />-->
+<!--</menu>-->
+
