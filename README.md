@@ -288,9 +288,7 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
 
 ![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E4%BF%AE%E6%94%B9%E9%A2%9C%E8%89%B2.jpg)
 
-- 我们选择【红色】，字体变为如下：
-
-<img src="https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/%E5%8F%98%E7%BA%A2.jpg" alt="变红" style="zoom:10%;" />
+- 我们选择【红色】，字体变化如上图。
 
 (3) 关键代码：
 
