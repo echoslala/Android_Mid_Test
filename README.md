@@ -85,7 +85,7 @@
 - 进入一个新的页面
 - 输入想查询的文字，使用的是模糊查询，呈现如下：
 <img src="https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/image-20241202123802476.png" alt="image-20241202123802476" style="zoom:33%;" />
-
+![image](https://github.com/echoslala/Android_Mid_Test/blob/master/github_pictures/suosuo.png)
 (2) 实现结果主要的相关思路/代码：
 
 基于项目模版原本的代码进行修改（菜单栏）：
